@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://magok-fullsalon-note.maphoshirts.space/sitemap.xml
-Sitemap: https://magok-fullsalon-note.maphoshirts.space/sitemap-pages.xml
+Sitemap: https://mangwon-club-tip.namanavi.com/sitemap.xml
+Sitemap: https://mangwon-club-tip.namanavi.com/sitemap-pages.xml
