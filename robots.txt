@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mangwon-club-tip.namanavi.com/sitemap.xml
+Sitemap: https://mangwon-club-tip.namanavi.com/sitemap-pages.xml
